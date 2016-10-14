@@ -1,0 +1,56 @@
+#########################################################################
+1º Pergunta
+	-> Qual é o problema?
+
+Resposta: Os sistemas de rega actuais não conseguirem conciliar estes parâmetros
+da melhor maneira:
+				- Eficiência
+				- Estética
+				- Autonomia
+				- Suporte para diferentes plantas
+				- Monitorização
+
+#########################################################################
+2º Pergunta
+	-> Quem tem este problema?
+
+Resposta: Pessoas com plantas em casa
+		  Empresas que fazem manutenção
+		  Pessoas que se ausentem de casa (frequentemente) por tempo incerto
+
+#########################################################################
+3º Pergunta
+	-> What solutions are now in use?
+
+Resposta: (Visitar a net) Dune
+
+#########################################################################
+4º Pergunta
+	-> What are the pains?
+
+Resposta: Morte das plantas (Caseiras)
+		  "Desplantação" de parques Municipais
+		  Destruição de zonas com plantas, com intuito turístico
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+								Solução
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+-> Qual é a Solução?
+	R: Desenvolvimento de um sistema eficiente de rega
+
+-> Funcionalidades
+	R: - Comunicação do estado do terreno (temperatura e luz)
+	   - Comunicação do estado do reservatório (água em reserva)
+	   - Controlo eficiente de dispensão de água por tipo de planta.
+	   - Alimentação do nosso sistema a energia solar (c/ pilha backup)
+	   - Monitorização do estado
+
+
+NOME DO PRODUTO -> 
+
+SLOGAN 
+1 -> We care for your plants! 
+				You don't have to.
+
+2 -> We help you care for your plants!
