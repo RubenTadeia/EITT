@@ -1,0 +1,9 @@
+Número de pessoas no grupo: 4
+
+Grupo Nº40
+
+Grupo:
+- Rúben Tadeia
+- David Gonçalves
+- Guilherme Vieira
+- Nuno Salgado
