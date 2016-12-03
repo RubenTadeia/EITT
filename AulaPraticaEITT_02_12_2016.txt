@@ -1,0 +1,74 @@
+	→ Business Model
+
+	
+	→ Revenue Streams
+		→ Strategy
+		→ Prices
+		→ Sales Forecast
+			→ Year 1
+			→ Year 2 
+			→ Year 3 (From theoretical Classes, professor said that if we have a product we may want to start our own selling progress after year 3. Before we are just adquiring products from other companies)
+
+	→ Channels
+
+
+	→ Client Relationships (Guilherme this is for you). Who is my client? Where is he? How can i approach him? Do we use google networks? How mutch are we going to spend in the google networks? (I don't know what this is...)
+
+
+	→ Key Activities (Not necessary to go to the small details)? Doing interviews? Are you blind? Business Model is about the business not the product development
+
+
+	→ Key Resources
+
+
+	→ Costs? (David this is for you) ¶ Bring Marcelino up!
+		→ Materials costs (Variable costs)
+		→ Services costs (Variable costs, Fixed Costs)
+		→ Labor costs (Fixed Costs)
+		→ Investments ->  Amortization costs (Fixed Costs)
+	All must be connected to the costs
+
+
+		̉ This three components below are very important!
+
+			→ Contribution Margin = (If we have an internet based service this may be 100%, we want this to be as close as 100% as possible)
+				= 1 - (Variable Costs) / Revenues <=>
+				= 1 - (unit_variable_cost / price) <=>
+
+
+			→ CAC (Search for slides online) Costumer acquisition cost (Custo de aquisição do cliente)
+				→ What is this? Why is this important? Are we going to acquire clients? How? Are we going to international fairs?
+					CAC (in a year) = ( Expenses in Marketing of Sales / # of new clients) 
+					
+					CAC = (10K / 10 Clients) = 1K € / Client
+
+
+			→ LTV (Life time value of the client) = Cost Margin * price * number of periods of payment (In our case if we don't invest in maintenance, it is just one period) !
+		̉
+
+
+_____________________________________________________________________________________________________________________________________________________________
+
+Example: (My Product)
+
+Price = 100 €
+
+100 € + VAT (Taxas) = 123 €
+
+30 ≃ 40% Retailer
+
+23 € → Fiscal Services
+
+I receive 60 € out of the 100 €
+
+_____________________________________________________________________________________________________________________________________________________________
+
+Doubts:
+	→ What is Google AdWords? https://adwords.google.com/home/?zd=1#?modal_active=none
+	→ What is Google AdSense? https://www.google.com/adsense/start/#?modal_active=none
+	→ Do we need MS Project? No!
+	→ Can we use prezi for the presentation? Yeah we may
+	→ Where do we put the excel file? This is a tool, like a calculator. We may print it and show it to Elsa in the presentation day.
+	→ Can i see you in your office at Tuesday 6:30 PM ? Yes. In this day Rúben will show Elsa the excel and Business Model 
+
+_____________________________________________________________________________________________________________________________________________________________
