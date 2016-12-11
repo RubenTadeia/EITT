@@ -1,51 +1,213 @@
-*************************************************************************************************************************************************************
 
-# Key Partners
+												# CUSTOMER VALUE (O que o cliente vê e com o que é que ele interage)
+
+
+************************************************************************************************************************************************************
+
+# Customer Segments (WHO)
 
 → O que é?
-	→ 
+	→ Quem é o nosso cliente? Quais são as suas características? O que é que ele precisa de fazer para usar o nosso produto?
 
 
 → Como tinhamos?
-	→ 
+	→ Comercialização a particulares, para uso doméstico;
+	→ Comercialização a empresas prestadoras de serviços de manutenção;
+	→ Comercialização a empresas do sector público-privado;
+	→ Venda através das grandes superfícies.
 
 
 
 → Como vai ficar? (Proposta)
-	→ 
+	→ Mercado nicho de pessoas que têm plantas em casa;
+	→ Pessoas que se ausentam de casa prejudicando assim a vida das suas plantas;
+	→ Pessoas com consciência dos preços dos produtos rivais;
 
-*************************************************************************************************************************************************************
-*************************************************************************************************************************************************************
+************************************************************************************************************************************************************
+************************************************************************************************************************************************************
 
-# Key Partners
+# Value Proposition (BENEFIT)
 
 → O que é?
-	→ 
+	→ O que é que oferecemos ao consumidor? É um Produto ou um Serviço? O que nos diferencia dos outros no mercado?
 
 
 → Como tinhamos?
-	→ 
+	→ Rega automática de plantas;
+	→ Possibilidade de ir de férias sem se preocupar.
 
 
 
 → Como vai ficar? (Proposta)
-	→ 
+	→ Preço acessível;
+	→ Sistema automático de rega de plantas (indoor);
+	→ Observação do estado das plantas a Kilometros de casa;
+	→ Conservação total das plantas.
 
-*************************************************************************************************************************************************************
-*************************************************************************************************************************************************************
 
-# Key Partners
+************************************************************************************************************************************************************
+************************************************************************************************************************************************************
+
+# Channels (REACH)
 
 → O que é?
-	→ 
+	→ Como é que abordamos (atingimos) os nossos consumidores? Physical Store ou website or mobile device?
 
 
 → Como tinhamos?
-	→ 
+	→ Website;
+	→ Distribuição de Flyers (i.e. publicidade em centros de jardinagem);
+	→ Publicidade através de blogs;
+	→ Promoção através de redes sociais;
+	→ Divulgação através de youtubers;
+	→ Passa-palavra.
 
 
 
 → Como vai ficar? (Proposta)
-	→ 
+	→ Website (plataforma online);
+	→ Promoção através de Redes Sociais (Facebook, Instagram);
+	→ Distribuidores;
+	→ Passa-palavra.
 
-*************************************************************************************************************************************************************
+************************************************************************************************************************************************************
+************************************************************************************************************************************************************
+
+# Relationships (ENGAGE)
+
+→ O que é?
+	→ Que relação é que estabelecemos com os consumidores? Temos óptimas pessoas de apoio ao consumidor que respondem rápidamente às suas perguntas?
+	Ou temos um blog / Redes Sociais?
+
+
+→ Como tinhamos?
+	→ Através do website;
+	→ Serviço de apoio ao cliente.
+
+
+
+→ Como vai ficar? (Proposta)
+	→ Providênciamos confiança;
+	→ Tratamento do cliente com transparência;
+	→ Política de devolução do produto;
+	→ Serviço online automatizado.
+
+************************************************************************************************************************************************************
+************************************************************************************************************************************************************
+
+# Revenue Streams (MONETIZE)
+
+→ O que é?
+	→ As várias maneiras de ganhar dinheiro, quer por licensas, vendas de serviços, publicidade, reparações...
+
+
+→ Como tinhamos?
+	→ Vendas online (a partir de uma webpage própria) e de outros como Ebay, Amazon, Alibaba, etc;
+	→ Reparação de produtos danificados, tendo terminado a garantia ou ser violado algum dos termos da clausula;
+	→ Venda ao público através de grandes superfícies, tais como (IKEA, Agriloja, AKI, etc);
+	→ Venda através de floristas e em empresas em manutenção.
+
+
+
+→ Como vai ficar? (Proposta)
+	→ Vendas online (a partir de uma webpage própria);
+	→ Reparação de produtos danificados, tendo terminado a garantia ou ser violado algum dos termos da clausula.
+
+************************************************************************************************************************************************************
+
+
+
+																	
+
+
+												# INFRASTRUCTURE (Operações quẽ são precisas para sustentar e suportar a empresa)
+
+
+
+************************************************************************************************************************************************************
+
+# Key Resources (NEED)
+
+→ O que é?
+	→ O que é que a empresa precisa para que o business model funcione? Skills técnicas? Uma loja para vender peças?
+
+
+→ Como tinhamos?
+	→ Printfull (para as encomendas);
+	→ Graphic springs (para a criação do logo).
+
+
+
+→ Como vai ficar? (Proposta)
+	→ Management Structure: "Lattice Culture" → Não temos chefe, e trabalhamos como equipa, o que nos proporciona um aumento de criatividade para desenvolver novos produtos;
+	→ Plataforma estimulante online de venda;
+	→ Controlo da Cadeia de Distribuição.
+
+************************************************************************************************************************************************************
+************************************************************************************************************************************************************
+
+# Key Activities (EXCEL)
+
+→ O que é?
+	→ Que actividades é que nos vão fazer sobressair ? Strong Marketing? Inovative design? Quality services?
+
+
+→ Como tinhamos?
+	→ Entrevistas;
+	→ Análise de Mercado;
+	→ Marketing;
+	→ Área de sugestões e reclamações no website;
+	→ Divulgação nas redes sociais.
+
+
+
+→ Como vai ficar? (Proposta)
+	→ Marketing Business To Consumer (Sugestões Online);
+	→ Plataforma online em constante manutenção e desenvolvimento;
+	→ Um armazem com material pronto a ser distribuido o que nos protege contra um "escalamento de mercado";
+	→ Inovando na forma de entrega dos produtos.
+
+************************************************************************************************************************************************************************************************************************************************************************************************************************
+
+# Key Partners (HELP)
+
+→ O que é?
+	→ Quem é que nos vai ajudar a fazer isto? Temos que fazer tudo sozinho? Ou como é que alguem nos pode ser "útil"?
+
+
+→ Como tinhamos?
+	→ Cemitérios;
+	→ Floristas;
+	→ Horto do Campo Grande
+	→ Grandes Superfícies (IKEA, Agriloja, AKI)
+
+
+
+→ Como vai ficar? (Proposta)
+	→ Horto do Campo Grande (Fazendo perguntas constantemente em relação ao que os clientes estão a sentir e o que é que lhes "faz falta");
+	→ Distribuidores;
+	→ Aliança com redes sociais para promover o nosso produto
+
+************************************************************************************************************************************************************
+************************************************************************************************************************************************************
+
+# Cost Structure ($$)
+
+→ O que é?
+	→ O que é que nos vai custor para tornar o nosso produto em realidade?
+
+
+→ Como tinhamos?
+	→ Custo do material electrónico;
+	→ Marketing;
+	→ Testes de qualidade de produto.
+
+
+
+→ Como vai ficar? (Proposta)
+	→ Custo da matéria-prima;
+	→ Custo de hospedagem do servidor e o domínio online;
+	→ Marketing (publicidade);
+	→ Testes de qualidade de produto.
+
+************************************************************************************************************************************************************
