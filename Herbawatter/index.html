@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+
+<head>
+    <title>Herbawatter</title>
+    <style>
+        body {margin:0;}
+        			ul {
+        			list-style-type: none;
+        			margin: 0;
+        			padding: 0;
+        			overflow: hidden;
+        			background-color: #333;
+        			position: fixed;
+        			top: 0;
+        			width: 100%;
+        			}
+        			li {
+        			float: left;
+        			}
+        			li a, .dropbtn {
+        			display: inline-block;
+        			color: white;
+        			text-align: center;
+        			padding: 14px 16px;
+        			text-decoration: none;
+        			}
+        			li a:hover, .dropdown:hover .dropbtn {
+        			background-color: #399bce;
+        			}
+        			li.dropdown {
+        			display: inline-block;
+        			}
+        			.dropdown-content {
+        			display: none;
+        			position: fixed;
+        			background-color: #f9f9f9;
+        			min-width: 160px;
+        			box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        			}
+        			.dropdown-content a {
+        			color: black;
+        			padding: 12px 16px;
+        			text-decoration: none;
+        			display: block;
+        			text-align: left;
+        			}
+        			.dropdown-content a:hover {background-color: lightblue}
+        			.dropdown:hover .dropdown-content {
+        			display: block;
+        			}
+        			.active {
+        			background-color: #0e9e1e !important;
+        			}
+        			h1 {
+        			font-size: 250%;
+        			font-family: "Arial", Times, serif;
+        			}
+        			h2 {
+        			font-size: 200%;
+        			font-family: "Arial", Times, serif;
+        			}
+        			.container-4{
+        			overflow: hidden;
+        			width: 260px;
+        			vertical-align: middle;
+        			white-space: nowrap;
+        			}
+        			.container-4 input#search{
+        			width: 260px;
+        			height: 47px;
+        			background: #292929;
+        			border: none;
+        			font-size: 10pt;
+        			float: left;
+        			color: #fff;
+        			padding-left: 15px;
+        			-webkit-border-radius: 5px;
+        			-moz-border-radius: 5px;
+        			border-radius: 5px;
+        			}
+        			.container-4 input#search::-webkit-input-placeholder {
+        			color: #65737e;
+        			}
+        			.container-4 input#search:-moz-placeholder { /* Firefox 18- */
+        			color: #65737e; 
+        			}
+        			.container-4 input#search::-moz-placeholder {  /* Firefox 19+ */
+        			color: #65737e;
+        			}
+        			.container-4 input#search:-ms-input-placeholder {  
+        			color: #65737e;  
+        			}
+        			.container-4 button.icon{
+        			-webkit-border-top-right-radius: 5px;
+        			-webkit-border-bottom-right-radius: 5px;
+        			-moz-border-radius-topright: 5px;
+        			-moz-border-radius-bottomright: 5px;
+        			border-top-right-radius: 5px;
+        			border-bottom-right-radius: 5px;
+        			border: none;
+        			background: #252525;
+        			height: 47px;
+        			width: 50px;
+        			color: #333;
+        			opacity: 0;
+        			font-size: 10pt;
+        			-webkit-transition: all .55s ease;
+        			-moz-transition: all .55s ease;
+        			-ms-transition: all .55s ease;
+        			-o-transition: all .55s ease;
+        			transition: all .55s ease;
+        			}
+        			.container-4:hover button.icon, .container-4:active button.icon, .container-4:focus button.icon{
+        			outline: none;
+        			opacity: 1;
+        			margin-left: -50px;
+        			}
+        			.container-4:hover button.icon:hover{
+        			background: white;
+        			}
+    </style>
+</head>
+
+<body>
+            <ul>
+                <li>
+                    <li><a class="active" href="./" style="padding:0px 0px;"><img src="./imagens/herbawatter.png" alt="yes" style="width:43px;height:43px;"></a></li>
+                </li>
+                <li><a href="./Novidades/">Novidades</a></li>
+                <li><a href="./Produto/">O Nosso Produto</a></li>
+                <li><a href="./Equipa/">Quem Somos?</a></li>
+                <li><a href="./Parceiros/">Parceiros</a></li>
+                <li><a href="./Sugestions/">Sugest&otilde;es e Reclama&ccedil;&otilde;es</a></li>
+                <li><a href="./Contacto/">Contacte-nos</a></li>
+                <li class="dropdown">
+                    <a href="javascript:void(0)" class="dropbtn">Entrar</a>
+                    <div class="dropdown-content">
+                        <a href="./Registar/">Registar</a>
+                        <a href="./Entrar/">J&aacute; Tenho Conta</a>
+                    </div>
+                </li>
+                <li>
+                    <div class="box">
+                        <div class="container-4">
+                            <input type="search" id="search" placeholder="Procurar..." />
+                            <button class="icon"><i class="fa fa-search"></i></button>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+            <div style="padding:20px;margin-top:30px;background-image: url('./imagens/tree.jpeg');height:700px;">
+                <!-- Referências Bibliográficas: Link: http://www.allmacwallpaper.com/mac-wallpaper/Way-To-Heaven/6921-->
+                <center>
+                    <br>
+                    <h1 style="color:rgb(0,0,0);"><strong>HERBAWATTER</strong></h1>
+                    <h2 style="color:#399bce;"><strong>BEM VINDO !</strong></h2>
+                    <h3 style="color:white;">J&aacute; conhecem o nosso Sistema?</h3>
+                    <img src="./imagens/herbawatter.png" alt="yes" style="width:200px;height:200px;">
+                    <h2 style="color:black;"><strong>Forget the watering cans! We care for your plants!</strong></h2>
+                </center>
+            </div>
+</body>
+
+</html>
