@@ -105,7 +105,7 @@
         echo "<p>N&uacute;mero de Encomendas: " . $number_orders . "</p>";
         echo "<p>Morada: " . $morada . "</p>";
         echo "<p>NIF: " . $nif . "</p>";
-        echo "<p><font color=\"red\">Total: " . $number_orders * 60 . " €</font></p>";
+        echo "<p><font color=\"red\">Total: " . $number_orders * 105 . " €</font></p>";
         echo "</strong></center>";
       echo "</div>";
     }

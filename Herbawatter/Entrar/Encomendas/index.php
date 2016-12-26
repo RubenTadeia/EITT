@@ -84,7 +84,7 @@
       <center>
         <div class="row">
           <form action="deliver.php" method="post">
-            <h2><strong>Tenha em aten&ccedil;&atilde;o que o pre&ccedil;o unit&aacute;rio &eacute; de 60,00€</strong></h2><br>
+            <h2><strong>Tenha em aten&ccedil;&atilde;o que o pre&ccedil;o unit&aacute;rio &eacute; de 105,00€ (Com Iva)</strong></h2><br>
             <p>N&uacute;mero de Encomendas: <input type="text" name="delivers" placeholder="Exemplo: 2" size="7" /></p>
             <p>Morada para ser entregue: <input type="text" name="address" placeholder="Exemplo: Rua dos Actores Lote 27, 2&deg; Esquerdo" size="37" /></p>
             <p>NIF: <input type="text" name="nif" placeholder="Exemplo: 28454751" size="13" /></p>

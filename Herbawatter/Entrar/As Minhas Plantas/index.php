@@ -22,7 +22,6 @@
     	padding: 20px;
   		width:100%;
   		height:80px;
-  		position:absolute;
   		bottom:0;
   		left:0;
     }
@@ -120,7 +119,6 @@
 	?>
   </div>
 </div>
-
 <footer class="container-fluid text-center"  style="color:white;">
   <p><strong><font size="6">Herbawatter</font></strong></p>
 </footer>
